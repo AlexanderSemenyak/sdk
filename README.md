@@ -1,3 +1,5 @@
+original: https://github.com/dotnet/sdk
+
 ## Welcome to dotnet sdk
 
 This repo contains core functionality needed to create .NET projects that is shared between VisualStudio and CLI.
